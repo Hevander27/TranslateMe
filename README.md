@@ -1,8 +1,8 @@
 # Project 6 - *TranslateMe*
 
-Submitted by: **Your Name Here**
+Submitted by: **Hevander Da Costae**
 
-**Name of your app** is an app that ... [TODO] 
+**Translate Me** is an app that uses MyMemory's REST API to build a translator! But to make our translation more functional, we're going to store those results in a database using Firebase!
 
 Time spent: **X** hours spent in total
 
@@ -10,15 +10,15 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users open the app to a TranslationMe home page with a place to enter a word, phrase or sentence, a button to translate, and another field that should initially be empty
-- [ ] When users tap translate, the word written in the upper field translates in the lower field. The requirement is only that you can translate from one language to another.
-- [ ] A history of translations can be stored (in a scroll view in the same screen, or a new screen)
-- [ ] The history of translations can be erased
+- [X] Users open the app to a TranslationMe home page with a place to enter a word, phrase or sentence, a button to translate, and another field that should initially be empty
+- [X] When users tap translate, the word written in the upper field translates in the lower field. The requirement is only that you can translate from one language to another.
+- [X] A history of translations can be stored (in a scroll view in the same screen, or a new screen)
+- [X] The history of translations can be erased
  
 The following **optional** features are implemented:
 
-- [ ] Add a variety of choices for the languages
-- [ ] Add UI flair
+- [X] Add a variety of choices for the languages
+- [X] Add UI flair
 
 The following **additional** features are implemented:
 
