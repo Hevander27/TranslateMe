@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] Add a variety of choices for the languages
-- [X] Add UI flair (Blue-Green text for wortd pairs added)
+- [X] Add UI flair (Blue-Green text for wortd pairs added, Lime green main view)
 
 The following **additional** features are implemented:
 
