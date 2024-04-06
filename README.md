@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<a href="//https://imgur.com/a/7YLpEkw">Project 6: Translate Me</a>
+<a href="https://i.imgur.com/a/7YLpEkw.gif">Project 6: Translate Me</a>
 
 Here's a walkthrough of implemented user stories:
 
