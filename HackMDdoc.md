@@ -33,7 +33,7 @@ Querying through pre-created chat gpt queries decreases token usage and makes qu
 
 ## Challenges:
 - This app will require connecting users to other user using Firebase- Firestore
-- This app will require 
+- This app will require connecting to the chatgpt api
 
 
 
