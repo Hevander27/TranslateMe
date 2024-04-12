@@ -1,6 +1,6 @@
 # Project 6 - *TranslateMe*
 
-Submitted by: **Hevander Da Costae**
+Submitted by: **Hevander Da Costa**
 
 **Translate Me** is an app that uses MyMemory's REST API to build a translator! But to make our translation more functional, we're going to store those results in a database using Firebase!
 
