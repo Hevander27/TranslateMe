@@ -26,6 +26,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+
+![Project 6 Translate Me (Green) - Imgur](https://github.com/Hevander27/TranslateMe/assets/45948489/0b7364a2-4e7e-4690-980b-b521ed89231c)
+
 <a href="https://i.imgur.com/a/7YLpEkw.gif">Project 6: Translate Me</a>
 
 Here's a walkthrough of implemented user stories:
